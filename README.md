@@ -1,1 +1,0 @@
-# Picture-Resizer.PHP
